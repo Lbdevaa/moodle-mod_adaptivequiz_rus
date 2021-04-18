@@ -162,7 +162,7 @@ $string['answerdistgraph_wrong'] = 'Неверно';
 $string['numright'] = 'Число верно';
 $string['numwrong'] = 'Число неверно';
 $string['questionnumber'] = 'Вопрос #';
-$string['na'] = 'n/a';
+$string['na'] = 'н/д';
 $string['downloadcsv'] = 'Скачать CSV';
 
 $string['grademethod'] = 'Метод оценки';
@@ -185,7 +185,7 @@ $string['questions_report'] = 'Отчет о вопросах';
 $string['question_report'] = 'Анализ вопросов';
 $string['times_used_display_name'] = 'Используемое время';
 $string['percent_correct_display_name'] = '% Correct';
-$string['discrimination_display_name'] = 'Различение';
+$string['discrimination_display_name'] = 'Различие';
 $string['back_to_all_questions'] = '&laquo; Вернуться ко всем вопросам';
 $string['answers_display_name'] = 'Ответы';
 $string['answer'] = 'Ответ';
